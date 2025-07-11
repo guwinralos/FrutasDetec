@@ -1,0 +1,31 @@
+20/04
+FAzendo dataset com alguns datasets escolhidos, mudando o ID das frutas desses dataset com programa em py que abre o txt e muda o ID de 0 para o ID escolhido
+
+22/04
+usando LabelIMG para desenhar os boxes para o |Yolo reconhecer, usei morangos verdes, maças verdes, e banan verde tambem comecar treinanmento com dataset pronto, 640x640 60 epoches , no colab 
+treinamento positivo mas com falhas e demorado
+
+
+
+26/04
+TREINAR DNV COM 320x320, treinamento atual 60eepochs, falhas em banana, e misturando frutas
+treinamento rapido ate 120 epochs , agora ficou bom , em torno de 90 porcneot de acuracia , treinar mais ate umas 150 mais o menos , pode treinar ate mais, sem dar overtraing
+
+12/05 
+Interface escolhida tkinter, ou customtkinter(mais bonito)
+16/05 
+Feita a interface, com customtkinter
+
+21/05
+calculo n esta dando certo, dicionarios com aliemntos  a cada 100g / unidade seria melhro para o modelo, calcular com base no triangulo xyz deu errado, vou usar por unidade, que fica perfeitro com base nas fruas, se fosse colocar coisas como arroz seria porcao de 100g
+
+
+22/05
+diconario feito, tentando colocar tabelas e grafico exibindo as calorias, com matplotlib ---- n deu certo
+
+03/06 quase temriando, resolver bug na interface, de exibir corretamente o dicionario quando aparece a fruta do lado esqeuerdo ou direito da imagem, aparecer o dicionario de cada fruta quando for exibido mais de uma fruta, e fazer a soma de todas as calorias C P G,e colocar no final, interface esta bonita assim
+
+5/06 faltando: resolver o dicionario exibindo mais de uma fruta, e a dimensao da imagem quando e seleiconada, para ficar no centor do programa
+
+
+

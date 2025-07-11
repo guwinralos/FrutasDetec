@@ -1,0 +1,7 @@
+train: frutasdetec/train/images
+val: frutasdetec/valid/images
+test: frutasdetec/test/images
+
+nc: 6
+names: ['Maça', 'banana', 'kiwi', 'Limão', 'Laranja', 'Morango']
+
